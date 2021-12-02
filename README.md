@@ -1,4 +1,4 @@
----------------TP1 Grégoire MAZARDIN---------------
+# TP1 Grégoire MAZARDIN
 
 You'll find in it my 5 exercises, all done.
 
